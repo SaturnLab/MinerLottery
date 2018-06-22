@@ -1,2 +1,2 @@
 # MinerLottery 
-Miner's lottery for their rewards.
+Miners' lottery for their rewards.
